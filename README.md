@@ -58,22 +58,22 @@ I expect all cell phones, computers, etc. to be inaudible during class. I expec
 Projected Project Time Line
 ===========================
 
-Day 3  
-(Sep 1) Groups and projects must be finalized.
+### Day 3 (Sep 5) 
+Groups and projects must be finalized.
 
-Day 5  
-(Sep 12) Group details due. This should contain a “group authored” section detailing what each group member is expecting to do.
+### Day 5 (Sep 12)
+Group details due. This should contain a “group authored” section detailing what each group member is expecting to do.
 
-Day 9  
-(Sep 26) Progress reports start. These should be roughly 10 minute presentations, one per group per week, delivered by a different member of the group each week.
+### Day 9 (Oct 1)
+Progress reports start. These should be roughly 10 minute presentations, one per group per week, delivered by a different member of the group each week.
 
-Day 28  
-(Dec 8) Final demonstration of completely working project.
+### Day 28 (Dec 10)
+Final demonstration of completely working project.
 
-Final Day  
-(Dec 21) Final written report including your reflections on the project and the final demo and your evaluation of co-group-members.
+### Final Day (Dec 17)
+Final written report including your reflections on the project and the final demo and your evaluation of co-group-members.
 
-Appendix A-Project grade
+Appendix A: Project grade
 ========================
 
 The number you receive for your project grade is calculated as follows: Let ${\\cal G}$ be the set of people in your group, and *G* be the overall grade of the final project (a number between 0 and 30). Let $g\_{i,j}, i\\neq j, i,j\\in{\\cal G}$ be the grade *i* gives to *j*. Then *j*’s grade on the project is
