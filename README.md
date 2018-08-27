@@ -25,7 +25,7 @@ Emails to the instructor must be via a CUNY email addresses for FERPA reasons. P
 
 ## Bulletin Board
 
-You should check the [Blackboard](http://bbhosted.cuny.edu) site regularly, since all class material will be posted there. Please make sure you have configured Bb to use your *GC email address*. You are responsible for any email the instructors might send there.
+You should check the [Blackboard](http://bbhosted.cuny.edu) site regularly, since all class material will be posted there. Please make sure you have configured Bb to use your *CUNY email address*. You are responsible for any email the instructors might send there.
 
 ## Text
 
