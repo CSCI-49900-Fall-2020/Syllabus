@@ -50,7 +50,7 @@ ADA Compliance
 
 In compliance with the American Disability Act of 1990 (ADA) and with Section 504 of the Rehabilitation Act of 1973, Hunter College is committed to ensuring educational parity and accommodations for all students with documented disabilities and/or medical conditions. It is recommended that all students with documented disabilities (Emotional, Medical, Physical and/ or Learning) consult the Office of AccessABILITY located in Room E1124 to secure necessary academic accommodations. For further information and assistance please call (212-772-4857)/TTY (212-650-3230).
 
-Cell Phones, &c.
+Cell Phones, etc.
 ================
 
 I expect all cell phones, computers, etc. to be inaudible during class. I expect running computers to be used for class-related purposes only, like code development or appropriate research. Any student with an electronic device that disrupts the class or that is used inappropriately (e.g. talking, texting, tweeting, emailing, mu\*ing, surfing, etc.) during class will lose two (2) points from their final average (per occurrence).
