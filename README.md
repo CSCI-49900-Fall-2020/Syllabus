@@ -27,18 +27,15 @@ Emails to the instructor must be via a CUNY email addresses for FERPA reasons. P
 
 You should check the [Blackboard](http://bbhosted.cuny.edu) site regularly, since all class material will be posted there. Please make sure you have configured Bb to use your *GC email address*. You are responsible for any email the instructors might send there.
 
-Text
-====
+## Text
 
 There will be no text book for this course.
 
-Goals
-=====
+## Goals
 
 There are two related goals for this class. The first is to assess the students’ mastery of the department’s stated learning goals. The second is to assess the department’s effectiveness in addressing these goals. For a complete list of these goals, see http://www.hunter.cuny.edu/csci/for-students/learning-goals-for-hunter-college-students.
 
-Grades
-======
+## Grades
 
 Grades will be based on a project, presentations, attendance, etc. The project, worth 35% of your grade, will involve programming a client-server distributed application. The server must support a RESTful web service. The client can be built on a technology of your choosing that supports the HTTP/S protocol and must communicate with the aforementioned server via REST calls. Moreover, there must be an aspect of security or privacy in your application, e.g., two-factor authentication or encrypted data. You will work with a team of 2 to 4 other students. This grade will be determined in part by my evaluation of the project and in part by your team members evaluation of your contribution. See the appendix for a complete description. Periodic presentations and written reports, reporting on tools and progress, will account for 55% of your grade. Professional presence (5%) and attendance (5%) will account for the rest of your grade.
 
@@ -55,18 +52,15 @@ Listed below is the complete breakdown:
 | Attendance                             | 5%   |
 | Total                                  | 100% |
 
-Academic Integrity
-==================
+## Academic Integrity
 
 Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations, obtaining unfair advantage, and falsification of records and official documents) as serious offenses against the values of intellectual honesty. The college is committed to enforcing the CUNY Policy on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College Academic Integrity Procedures.
 
-Cell Phones, etc.
-================
+## Cell Phones, etc.
 
 I expect all cell phones, computers, etc. to be inaudible during class. I expect running computers to be used for class-related purposes only, like code development or appropriate research. Any student with an electronic device that disrupts the class or that is used inappropriately (e.g. talking, texting, tweeting, emailing, mu\*ing, surfing, etc.) during class will lose two (2) points from their final average (per occurrence).
 
-Projected Project Time Line
-===========================
+## Projected Project Time Line
 
 ### Day 3 (Sep 5) 
 Groups and projects must be finalized.
@@ -82,12 +76,6 @@ Final demonstration of completely working project.
 
 ### Final Day (Dec 17)
 Final written report including your reflections on the project and the final demo and your evaluation of co-group-members.
-
-Appendix A: Project grade
-========================
-
-The number you receive for your project grade is calculated as follows: Let ${\\cal G}$ be the set of people in your group, and *G* be the overall grade of the final project (a number between 0 and 30). Let $g\_{i,j}, i\\neq j, i,j\\in{\\cal G}$ be the grade *i* gives to *j*. Then *j*’s grade on the project is
-$$G\_j =  G \\times \\sum\_{\\substack{i\\neq j\\\\i\\in{\\cal G}}}\\left(\\frac{g\_{i,j}}{\\sum\_{\\substack{i\\neq j\\\\j\\in {\\cal G}}} g\_{i,j}}\\right)$$
 
 ## Computer Science Facilities & Labs 
 
@@ -160,3 +148,8 @@ Except for changes that substantially affect implementation of the evaluation (g
 ## Instructor Biography
 
 Raffi Khatchadourian is an Assistant Professor in the Computer Science Department at Hunter College and the Graduate Center of the City University of New York (CUNY). He received his MS and Ph.D. degrees in Computer Science from Ohio State University and BS degree in Computer Science from Monmouth University in New Jersey. Prior to joining CUNY, he was a Software Engineer at Apple, Inc. in Cupertino, California, where he worked on Digital Rights Management (DRM) for iTunes, iBooks, and the App store. He also developed distributed software that tested various features of iPhones, iPads, and iPods. Raffi's research focus is techniques for automated software evolution, particularly those related to automated refactoring and source code recommendation systems with the goal of easing the burden associated with correctly and efficiently evolving large and complex software.
+
+## Appendix A: Project grade
+
+The number you receive for your project grade is calculated as follows: Let ${\\cal G}$ be the set of people in your group, and *G* be the overall grade of the final project (a number between 0 and 30). Let $g\_{i,j}, i\\neq j, i,j\\in{\\cal G}$ be the grade *i* gives to *j*. Then *j*’s grade on the project is
+$$G\_j =  G \\times \\sum\_{\\substack{i\\neq j\\\\i\\in{\\cal G}}}\\left(\\frac{g\_{i,j}}{\\sum\_{\\substack{i\\neq j\\\\j\\in {\\cal G}}} g\_{i,j}}\\right)$$
