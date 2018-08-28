@@ -1,8 +1,3 @@
-<script type="text/javascript" async
-src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js? 
-config=TeX-MML-AM_CHTML"
-</script>
-
 # CSCI 49900: Advanced Applications, a Capstone for Majors
 4 credits. Department of Computer Science, Hunter College, City University of New York.
 
