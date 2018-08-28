@@ -42,33 +42,38 @@ Field | Value
 **Office:** | HN 1090H
 **Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
 **Phone:** | (212) 650-3988
-**Office hour:** | TBD or [by appointment](http://khatchad.setmore.com)
+**Office hour:** | MW 5:45-6:45 pm or [by appointment](http://khatchad.setmore.com)
 **Semester:** | Fall 2018
-**Section:** | 3
+**Section:** | CSCI 49900-03
 
-## Questions
+## Course Description
 
-This term we will be using [Piazza](http://piazza.com/hunter.cuny) for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, please [email them](mailto:team@piazza.com).
+This course is a chance for Computer Science majors to test their mettle on major projects. Working in small groups, you will implement systems that involve at least two tiers, at least one client, a rich RESTful API, and security aspects. 
 
-Find our [class page](https://piazza.com/gc.cuny/fall2018/csci49900/home) and [sign up](https://piazza.com/gc.cuny/fall2018/csci49900) for the forum.
+## Projected Project Time Line
 
-## Email
+Day   | Date   | Task
+----- | ------ | ----
+3     | Sep 5  | Groups and projects must be finalized.
+5     | Sep 12 | Group details due. This should contain a "group authored" section detailing what each group member is expecting to do.
+9     | Oct 1  | Progress reports start. These should be roughly 10 minute presentations, one per group per week, delivered by a different member of the group each week.
+28    | Dec 10 | Final demonstration of completely working project.
+Final | Dec 17 | Final written report including your reflections on the project and the final demo and your evaluation of co-group-members.
 
-Emails to the instructor must be via a CUNY email addresses for FERPA reasons. Please post all class-related discussion on Piazza. Also, please ensure that your *correct* email address is entered into the CUNY Blackboard.
+## Prerequisite 
 
-## Bulletin Board
+All non-elective courses in Computer Science required for graduation or permission of instructor. 
 
-You should check the [Blackboard](http://bbhosted.cuny.edu) site regularly, since all class material will be posted there. Please make sure you have configured Bb to use your *CUNY email address*. You are responsible for any email the instructors might send there.
+## Textbook
 
-## Text
+There will be no text book for this course, however, the following books may be useful:
 
-There will be no text book for this course.
+- [Software Engineering](https://books.google.com/books?id=tW4VngEACAAJ), Sommerville, I. ISBN 9780133943030. 2015, Pearson Education. 10th edition.
+- [Cryptography Engineering: Design Principles and Practical Applications](https://books.google.com/books?id=nnqdQsrZnJgC), Niels Ferguson, Bruce Schneier, Tadayoshi Kohno. ISBN 9780470474242. 2010, Wiley. 10th edition.
+- [RESTful API Design](https://books.google.com/books?id=jIIQvgAACAAJ), Matthias Biehl, ISBN 9781514735169. 2016, CreateSpace Independent Publishing Platform.
+- [REST API Design Rulebook](https://books.google.com/books?id=4lZcsRwXo6MC), Mark Masse, ISBN 9781449310509. 2011, O'Reilly.
 
-## Goals
-
-There are two related goals for this class. The first is to assess the students’ mastery of the department’s stated learning goals. The second is to assess the department’s effectiveness in addressing these goals. For a complete list of these goals, see http://www.hunter.cuny.edu/csci/for-students/learning-goals-for-hunter-college-students.
-
-## Grades
+## Grading
 
 Grades will be based on a project, presentations, attendance, etc. The project, worth 35% of your grade, will involve programming a client-server distributed application. The server must support a RESTful web service. The client can be built on a technology of your choosing that supports the HTTP/S protocol and must communicate with the aforementioned server via REST calls. Moreover, there must be an aspect of security or privacy in your application, e.g., two-factor authentication or encrypted data. You will work with a team of 2 to 4 other students. This grade will be determined in part by my evaluation of the project and in part by your team members evaluation of your contribution. See the appendix for a complete description. Periodic presentations and written reports, reporting on tools and progress, will account for 55% of your grade. Professional presence (5%) and attendance (5%) will account for the rest of your grade.
 
@@ -85,30 +90,31 @@ Listed below is the complete breakdown:
 | Attendance                             | 5%   |
 | Total                                  | 100% |
 
-## Academic Integrity
+## Goals
 
-Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations, obtaining unfair advantage, and falsification of records and official documents) as serious offenses against the values of intellectual honesty. The college is committed to enforcing the CUNY Policy on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College Academic Integrity Procedures.
+There are two related goals for this class. The first is to assess the students’ mastery of the department’s stated learning goals. The second is to assess the department’s effectiveness in addressing these goals. For a complete list of these goals, see http://www.hunter.cuny.edu/csci/for-students/learning-goals-for-hunter-college-students.
 
-## Cell Phones, etc.
+## Attendance
 
-I expect all cell phones, computers, etc. to be inaudible during class. I expect running computers to be used for class-related purposes only, like code development or appropriate research. Any student with an electronic device that disrupts the class or that is used inappropriately (e.g. talking, texting, tweeting, emailing, mu\*ing, surfing, etc.) during class will lose two (2) points from their final average (per occurrence).
+Attendance is expected for *each and every class* meeting. Each student is allowed five (5) absences for any reason except on days when there are presentations or exams. Absences exceeding the allowance or absence on a presentation day for any reason results in a 0.2% deduction from the attendance grade.
 
-## Projected Project Time Line
+## Academic Violations
 
-### Day 3 (Sep 5) 
-Groups and projects must be finalized.
+Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations, obtaining unfair advantage, and falsification of records and official documents) as serious offenses against the values of intellectual honesty. The college is committed to enforcing the CUNY Policy on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College Academic Integrity Procedures. Special attention is given to CONTRACT CHEATING (this is where students have work completed on their behalf which is then submitted for academic credit).
 
-### Day 5 (Sep 12)
-Group details due. This should contain a “group authored” section detailing what each group member is expecting to do.
+## Discussion and Q&A
 
-### Day 9 (Oct 1)
-Progress reports start. These should be roughly 10 minute presentations, one per group per week, delivered by a different member of the group each week.
+This term we will be using [Piazza](http://piazza.com/hunter.cuny) for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, please [email them](mailto:team@piazza.com).
 
-### Day 28 (Dec 10)
-Final demonstration of completely working project.
+Find our [class page](https://piazza.com/gc.cuny/fall2018/csci49900/home) and [sign up](https://piazza.com/hunter.cuny/fall2018/csci49900) for the forum.
 
-### Final Day (Dec 17)
-Final written report including your reflections on the project and the final demo and your evaluation of co-group-members.
+## Email
+
+Emails to the instructor must be via a CUNY email addresses for FERPA reasons. Please post all class-related discussion on Piazza. Also, please ensure that your *correct* email address is entered into the CUNY Blackboard.
+
+## Bulletin Board
+
+You should check the [Blackboard](http://bbhosted.cuny.edu) site regularly, since all class material will be posted there. Please make sure you have configured Bb to use your *CUNY email address*. You are responsible for any email the instructors might send there.
 
 ## Computer Science Facilities & Labs 
 
