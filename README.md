@@ -4,22 +4,18 @@
 ## Table of Contents
 <!--ts-->
    * [CSCI 49900: Advanced Applications, a Capstone for Majors](#csci-49900-advanced-applications-a-capstone-for-majors)
-      * [Table of Contents](#table-of-contents)
       * [Details](#details)
-      * [Questions](#questions)
+      * [Course Description](#course-description)
+      * [Projected Project Time Line](#projected-project-time-line)
+      * [Prerequisite](#prerequisite)
+      * [Textbook](#textbook)
+      * [Grading](#grading)
+      * [Goals](#goals)
+      * [Attendance](#attendance)
+      * [Academic Violations](#academic-violations)
+      * [Discussion and Q&amp;A](#discussion-and-qa)
       * [Email](#email)
       * [Bulletin Board](#bulletin-board)
-      * [Text](#text)
-      * [Goals](#goals)
-      * [Grades](#grades)
-      * [Academic Integrity](#academic-integrity)
-      * [Cell Phones, etc.](#cell-phones-etc)
-      * [Projected Project Time Line](#projected-project-time-line)
-         * [Day 3 (Sep 5)](#day-3-sep-5)
-         * [Day 5 (Sep 12)](#day-5-sep-12)
-         * [Day 9 (Oct 1)](#day-9-oct-1)
-         * [Day 28 (Dec 10)](#day-28-dec-10)
-         * [Final Day (Dec 17)](#final-day-dec-17)
       * [Computer Science Facilities &amp; Labs](#computer-science-facilities--labs)
       * [Counseling &amp; Wellness Services](#counseling--wellness-services)
       * [Special Needs](#special-needs)
@@ -30,7 +26,7 @@
       * [Instructor Biography](#instructor-biography)
       * [Appendix A: Project grade](#appendix-a-project-grade)
 
-<!-- Added by: rk1424, at: 2018-08-28T14:46-04:00 -->
+<!-- Added by: rk1424, at: 2018-08-28T15:30-04:00 -->
 
 <!--te-->
 
