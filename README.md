@@ -1,6 +1,39 @@
 # CSCI 49900: Advanced Applications, a Capstone for Majors
 4 credits. Department of Computer Science, Hunter College, City University of New York.
 
+## Table of Contents
+<!--ts-->
+   * [CSCI 49900: Advanced Applications, a Capstone for Majors](#csci-49900-advanced-applications-a-capstone-for-majors)
+      * [Table of Contents](#table-of-contents)
+      * [Details](#details)
+      * [Questions](#questions)
+      * [Email](#email)
+      * [Bulletin Board](#bulletin-board)
+      * [Text](#text)
+      * [Goals](#goals)
+      * [Grades](#grades)
+      * [Academic Integrity](#academic-integrity)
+      * [Cell Phones, etc.](#cell-phones-etc)
+      * [Projected Project Time Line](#projected-project-time-line)
+         * [Day 3 (Sep 5)](#day-3-sep-5)
+         * [Day 5 (Sep 12)](#day-5-sep-12)
+         * [Day 9 (Oct 1)](#day-9-oct-1)
+         * [Day 28 (Dec 10)](#day-28-dec-10)
+         * [Final Day (Dec 17)](#final-day-dec-17)
+      * [Computer Science Facilities &amp; Labs](#computer-science-facilities--labs)
+      * [Counseling &amp; Wellness Services](#counseling--wellness-services)
+      * [Special Needs](#special-needs)
+      * [ADA Compliance](#ada-compliance)
+      * [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
+      * [Sexual Misconduct](#sexual-misconduct)
+      * [Syllabus Change Policy](#syllabus-change-policy)
+      * [Instructor Biography](#instructor-biography)
+      * [Appendix A: Project grade](#appendix-a-project-grade)
+
+<!-- Added by: rk1424, at: 2018-08-28T14:46-04:00 -->
+
+<!--te-->
+
 ## Details
 
 Field | Value
