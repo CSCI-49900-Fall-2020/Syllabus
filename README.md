@@ -62,7 +62,7 @@ All non-elective courses in Computer Science required for graduation or permissi
 
 ## Textbook
 
-There will be no text book for this course, however, the following books may be useful:
+There will be no textbook for this course, however, the following books may be useful:
 
 - [Software Engineering](https://books.google.com/books?id=tW4VngEACAAJ), Sommerville, I. ISBN 9780133943030. 2015, Pearson Education. 10th edition.
 - [Cryptography Engineering: Design Principles and Practical Applications](https://books.google.com/books?id=nnqdQsrZnJgC), Niels Ferguson, Bruce Schneier, Tadayoshi Kohno. ISBN 9780470474242. 2010, Wiley. 10th edition.
