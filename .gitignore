@@ -1,1 +1,5 @@
+*.swo
+*.swp
+*_syllabus.pdf
+README.html
 README.md.*
