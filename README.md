@@ -6,7 +6,7 @@
    * [CSCI 49900: Advanced Applications, a Capstone for Majors](#csci-49900-advanced-applications-a-capstone-for-majors)
       * [Details](#details)
       * [Course Description](#course-description)
-      * [Projected Project Time Line](#projected-project-time-line)
+      * [Projected Project Timeline](#projected-project-timeline)
       * [Prerequisite](#prerequisite)
       * [Textbook](#textbook)
       * [Grading](#grading)
@@ -46,7 +46,7 @@ Field | Value
 
 This course is a chance for Computer Science majors to test their mettle on major projects. Working in small groups, you will implement systems that involve at least two tiers, at least one client, a rich RESTful API, and security aspects. 
 
-## Projected Project Time Line
+## Projected Project Timeline
 
 Day   | Date   | Task
 ----- | ------ | ----
