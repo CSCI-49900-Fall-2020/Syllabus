@@ -5,7 +5,7 @@ html:
 preview-html: html
 	gio open README.html
 pdf:
-	pandoc -f markdown_github README.md -o csci_49900-03_fa2018_syllabus.pdf
+	pandoc -f gfm README.md -o csci_49900-03_fa2018_syllabus.pdf
 preview-pdf: pdf
 	gio open csci_49900-03_fa2018_syllabus.pdf
 toc:
