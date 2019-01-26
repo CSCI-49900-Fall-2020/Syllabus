@@ -8,3 +8,5 @@ pdf:
 	pandoc -f markdown_github README.md -o csci_49900-03_fa2018_syllabus.pdf
 preview-pdf: pdf
 	gio open csci_49900-03_fa2018_syllabus.pdf
+toc:
+	gh-md-toc README.md | xclip -selection clipboard
