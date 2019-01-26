@@ -2,8 +2,9 @@
 4 credits. Department of Computer Science, Hunter College, City University of New York.
 
 ## Table of Contents
-<!--ts-->
+
    * [CSCI 49900: Advanced Applications, a Capstone for Majors](#csci-49900-advanced-applications-a-capstone-for-majors)
+      * [Table of Contents](#table-of-contents)
       * [Details](#details)
       * [Course Description](#course-description)
       * [Projected Project Timeline](#projected-project-timeline)
@@ -17,6 +18,10 @@
       * [Email](#email)
       * [Bulletin Board](#bulletin-board)
       * [Computer Science Facilities &amp; Labs](#computer-science-facilities--labs)
+      * [GitHub Classroom](#github-classroom)
+         * [Project Material Submission](#project-material-submission)
+         * [Git and GitHub Tutorials](#git-and-github-tutorials)
+      * [RESTful Web API and Documentation](#restful-web-api-and-documentation)
       * [Counseling &amp; Wellness Services](#counseling--wellness-services)
       * [Special Needs](#special-needs)
       * [ADA Compliance](#ada-compliance)
@@ -24,12 +29,10 @@
       * [Sexual Misconduct](#sexual-misconduct)
       * [Syllabus Change Policy](#syllabus-change-policy)
       * [Instructor Biography](#instructor-biography)
-      * [Appendix A: Project grade](#appendix-a-project-grade)
+      * [Appendix A: Project Grade](#appendix-a-project-grade)
 
-<!-- Added by: rk1424, at: 2018-08-28T15:30-04:00 -->
-
-<!--te-->
-
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
+ 
 ## Details
 
 Field | Value
@@ -38,23 +41,23 @@ Field | Value
 **Office:** | HN 1090H
 **Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
 **Phone:** | (212) 650-3988
-**Office hour:** | MW 5:45-6:45 pm or [by appointment](http://khatchad.setmore.com)
-**Semester:** | Fall 2018
-**Section:** | CSCI 49900-03
+**Office hour:** | Th 3:00-5:00 pm or [by appointment](http://khatchad.commons.gc.cuny.edu/teaching/appointments)
+**Semester:** | Spring 2019
+**Section:** | CSCI 49900-01
 
 ## Course Description
 
-This course is a chance for Computer Science majors to test their mettle on major projects. Working in small groups, you will implement systems that involve at least two tiers, at least one client, a rich RESTful API, and security aspects. 
+This course is a chance for Computer Science majors to test their mettle on major projects. Working in small groups, you will implement systems that involve at least two tiers, at least two clients, a rich RESTful API (including API documentation), and security aspects. 
 
 ## Projected Project Timeline
 
 Day   | Date   | Task
 ----- | ------ | ----
-3     | Sep 5  | Groups and projects must be finalized.
-5     | Sep 12 | Group details due. This should contain a "group authored" section detailing what each group member is expecting to do.
-9     | Oct 1  | Progress reports start. These should be roughly 10 minute presentations, one per group per week, delivered by a different member of the group each week.
-29    | Dec 12 | Final demonstration of completely working project.
-Final | Dec 17 | Final written report including your reflections on the project and the final demo and your evaluation of co-group-members.
+3     | Feb 7  | Groups and projects must be finalized.
+5     | Feb 14 | Group details due. This should contain a "group authored" section detailing what each group member is expecting to do.
+9     | Mar 4  | Progress reports start. These should be roughly 10 minute presentations, one per group per week, delivered by a different member of the group each week.
+29    | May 13 | Final demonstration of completely working project.
+Final | ?      | Final written report including your reflections on the project and the final demo and your evaluation of co-group-members.
 
 ## Prerequisite 
 
@@ -68,27 +71,30 @@ There will be no textbook for this course, however, the following books may be u
 - [Cryptography Engineering: Design Principles and Practical Applications](https://books.google.com/books?id=nnqdQsrZnJgC), Niels Ferguson, Bruce Schneier, Tadayoshi Kohno. ISBN 9780470474242. 2010, Wiley. 10th edition.
 - [RESTful API Design](https://books.google.com/books?id=jIIQvgAACAAJ), Matthias Biehl, ISBN 9781514735169. 2016, CreateSpace Independent Publishing Platform.
 - [REST API Design Rulebook](https://books.google.com/books?id=4lZcsRwXo6MC), Mark Masse, ISBN 9781449310509. 2011, O'Reilly.
+- [The Rails 5 Way](https://books.google.com/books?id=YGQ-DwAAQBAJ), Obie Fernandez, ISBN 9780134657684. 2017, Addison-Wesley.
+- [Ruby on Rails Tutorial: Learn Web Development with Rails](https://books.google.com/books?id=ePuCDQAAQBAJ), Michael Hartl, ISBN 9780134597508. 2016, Addison-Wesley.
+- [The Ruby Way: Solutions and Techniques in Ruby Programming](https://books.google.com/books?id=uT6eBgAAQBAJ&dq), Hal Fulton, Andre Arko, ISBN 9780132480376. 2015, Addison-Wesley.
 
 ## Grading
 
-Grades will be based on a project, presentations, attendance, etc. The project, worth 35% of your grade, will involve programming a client-server distributed application. The server must support a RESTful web service. The client can be built on a technology of your choosing that supports the HTTP/S protocol and must communicate with the aforementioned server via REST calls. Moreover, there must be an aspect of security or privacy in your application, e.g., two-factor authentication or encrypted data. You will work with a team of 2 to 4 other students. This grade will be determined in part by my evaluation of the project and in part by your team members evaluation of your contribution. See the appendix for a complete description. Periodic presentations and written reports, reporting on tools and progress, will account for 55% of your grade. Professional presence (5%) and attendance (5%) will account for the rest of your grade.
+Grades will be based on a project, presentations, attendance, etc. The project, worth 35% of your grade, will involve programming a client-server distributed application. The server must provide a RESTful web service, which will be well-documented and submitted as part of the project. The clients (there must be at least two different types, e.g., web app, mobile app, arduino, command-line) can be built on a technology of your choosing that supports the HTTP/S protocol and must communicate with the aforementioned server via REST calls. Moreover, there must be an aspect of security or privacy in your application, e.g., two-factor authentication or encrypted data. You will work with a team of 2 to 4 other students. This grade will be determined in part by my evaluation of the project and in part by your team members evaluation of your contribution. See the appendix for a complete description. Periodic presentations and written reports, reporting on tools and progress, will account for 55% of your grade. Professional presence (5%) and attendance (5%) will account for the rest of your grade.
 
 Listed below is the complete breakdown:
 
-| Area                                       | Percentage     |
-|:---------------------------------------|:-----|
-| Project                                | 35%  |
-| Presentations (expect: 2 for progress) | 25%  |
-| Written assignments (progress reports) | 20%  |
-| Periodic peer reports                  | 5%   |
-| Final peer report                      | 5%   |
-| Professional presence                  | 5%   |
-| Attendance                             | 5%   |
-| Total                                  | 100% |
+| Area                                       | Percentage |
+|:-------------------------------------------|:-----------|
+| Project                                    | 35%        |
+| Presentations (expect: 2 for progress)     | 25%        |
+| Written assignments (progress reports)     | 20%        |
+| Periodic peer reports                      | 5%         |
+| Final peer report                          | 5%         |
+| Professional presence                      | 5%         |
+| Attendance                                 | 5%         |
+| Total                                      | 100%       |
 
 ## Goals
 
-There are two related goals for this class. The first is to assess the students’ mastery of the department’s stated learning goals. The second is to assess the department’s effectiveness in addressing these goals. For a complete list of these goals, see http://www.hunter.cuny.edu/csci/for-students/learning-goals-for-hunter-college-students.
+There are two related goals for this class. The first is to assess the students’ mastery of the department’s stated learning goals. The second is to assess the department’s effectiveness in addressing these goals. For a complete list of these goals, see the [learning goals for Hunter College Students](http://www.hunter.cuny.edu/csci/for-students/learning-goals-for-hunter-college-students.
 
 ## Attendance
 
@@ -102,7 +108,7 @@ Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating o
 
 This term we will be using [Piazza](http://piazza.com/hunter.cuny) for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, please [email them](mailto:team@piazza.com).
 
-Find our [class page](https://piazza.com/hunter.cuny/fall2018/csci49900/home) and [sign up](https://piazza.com/hunter.cuny/fall2018/csci49900) for the forum.
+Find our [class page](http://piazza.com/hunter.cuny/spring2019/csci49900) and [sign up](http://piazza.com/hunter.cuny/spring2019/csci49900) for the forum.
 
 ## Email
 
@@ -115,6 +121,29 @@ You should check the [Blackboard](http://bbhosted.cuny.edu) site regularly, sinc
 ## Computer Science Facilities & Labs 
 
 All computer science students can use any of the general-purpose labs throughout Hunter College. In addition, computer science majors and students enrolled in CSCI courses can an obtain an account on the Computer Science Department Network. More information can be found on the [Computer Science Department's website](http://www.hunter.cuny.edu/csci/about-cs/computer-science-facilities-labs).
+
+## GitHub Classroom
+
+Project submissions will be made via [GitHub Classroom](http://classroom.github.com). Please join via the [invitation link](http://classroom.github.com/g/4KuBsoap). When signing up, please match your EMPLID to your GitHub account. Notify the instructor immediately if you do not see your EMPLID.
+
+### Project Material Submission
+
+All source code and documentation of your final projects will be made via your GitHub repository. Your repository must contain a `README.md` file that describes how to use your project. You may also utilize the repository wiki for additional documentation.
+
+### Git and GitHub Tutorials
+
+Please complete the following tutorials:
+
+- [gittutorial](http://git-scm.com/docs/gittutorial)
+    - Send me a compressed version of the repository you have created.
+- [GitHub Hello World](http://guides.github.com/activities/hello-world)
+    - Send me:
+        1. A link to the repository you have created.
+        1. A link to the (merged) pull request you have created.
+
+## RESTful Web API and Documentation
+
+As part of the project submission, extensive documentation on how *new clients* can use your exposed RESTful web API must be provided. Each *end point* must be listed (i.e., the URL) and its **expected inputs and outputs** described for **each http method** (e.g., `PUT`, `GET`, `POST`). Furthermore, the **end point names must be nouns** (e.g., `http://jsonplaceholder.typicode.com/todos`, `http://jsonplaceholder.typicode.com/todos/3`). Deviations from the accepted REST practices will be **penalized**, however, liberal deviations that are accompanied by documentation may be considered (e.g., a `GET` request to `https://jsonplaceholder.typicode.com/todos/3/like` invokes a "thumbs up" mutator method on the todo with ID 3).
 
 ## Counseling & Wellness Services
 
@@ -172,7 +201,7 @@ Except for changes that substantially affect implementation of the evaluation (g
 
 ## Instructor Biography
 
-Raffi Khatchadourian is an Assistant Professor in the Computer Science Department at Hunter College and the Graduate Center of the City University of New York (CUNY). He received his MS and PhD degrees in Computer Science from Ohio State University and BS degree in Computer Science from Monmouth University in New Jersey. Prior to joining CUNY, he was a Software Engineer at Apple, Inc. in Cupertino, California, where he worked on Digital Rights Management (DRM) for iTunes, iBooks, and the App store. He also developed distributed software that tested various features of iPhones, iPads, and iPods. Raffi's research focus is techniques for automated software evolution, particularly those related to automated refactoring and source code recommendation systems with the goal of easing the burden associated with correctly and efficiently evolving large and complex software.
+Raffi Khatchadourian is an Assistant Professor in the Computer Science Department at Hunter College and the Graduate Center of the City University of New York (CUNY). He received his MS and PhD degrees in Computer Science from Ohio State University and BS degree in Computer Science from Monmouth University in New Jersey. Prior to joining CUNY, he was a Software Engineer at Apple, Inc. in Cupertino, California, where he worked on Digital Rights Management (DRM) for iTunes, iBooks, and the App store. He also developed distributed software that tested various features of iPhones, iPads, and iPods. His research focus is techniques for automated software evolution, particularly those related to automated refactoring and source code recommendation systems with the goal of easing the burden associated with correctly and efficiently evolving large and complex software.
 
 ## Appendix A: Project Grade
 
