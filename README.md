@@ -47,7 +47,7 @@ Field | Value
 
 ## Course Description
 
-This course is a chance for Computer Science majors to test their mettle on major projects. Working in small groups, you will implement systems that involve at least two tiers, at least two clients, a rich RESTful API (including API documentation), and security aspects. 
+This course is a chance for Computer Science majors to test their mettle on major projects. Working in small groups, you will implement systems that involve at least two tiers, at least two (native) clients, a rich RESTful API (including API documentation), and security aspects. 
 
 ## Projected Project Timeline
 
@@ -77,7 +77,9 @@ There will be no textbook for this course, however, the following books may be u
 
 ## Grading
 
-Grades will be based on a project, presentations, attendance, etc. The project, worth 35% of your grade, will involve programming a client-server distributed application. The server must provide a RESTful web service, which will be well-documented and submitted as part of the project. The clients (there must be at least two different types, e.g., web app, mobile app, arduino, command-line) can be built on a technology of your choosing that supports the HTTP/S protocol and must communicate with the aforementioned server via REST calls. Moreover, there must be an aspect of security or privacy in your application, e.g., two-factor authentication or encrypted data. You will work with a team of 2 to 4 other students. This grade will be determined in part by my evaluation of the project and in part by your team members evaluation of your contribution. See the appendix for a complete description. Periodic presentations and written reports, reporting on tools and progress, will account for 55% of your grade. Professional presence (5%) and attendance (5%) will account for the rest of your grade.
+Grades will be based on a project, presentations, attendance, etc. The project, worth 35% of your grade, will involve programming a client-server distributed application. The server must provide a RESTful web service, which will be well-documented and submitted as part of the project. The (native) clients (there must be at least two different types, e.g., web app, mobile app, arduino, command-line) can be built on a technology of your choosing that supports the HTTP/S protocol and must communicate with the aforementioned server via REST calls. **The clients must be native**, meaning that the programming language and platforms chosen must be **native** to the environment. For example, an Android client must be written in Java using the Android Development Toolkit and standard Google frameworks. Likewise, an iOS client must by written in either Objective-C or Swift.
+
+Moreover, there must be an aspect of security or privacy in your application, e.g., two-factor authentication or encrypted data. You will work with a team of 2 to 4 other students. This grade will be determined in part by my evaluation of the project and in part by your team members evaluation of your contribution. See the appendix for a complete description. Periodic presentations and written reports, reporting on tools and progress, will account for 55% of your grade. Professional presence (5%) and attendance (5%) will account for the rest of your grade.
 
 Listed below is the complete breakdown:
 
