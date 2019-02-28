@@ -96,7 +96,7 @@ Listed below is the complete breakdown:
 
 ## Goals
 
-There are two related goals for this class. The first is to assess the students’ mastery of the department’s stated learning goals. The second is to assess the department’s effectiveness in addressing these goals. For a complete list of these goals, see the [learning goals for Hunter College Students](http://www.hunter.cuny.edu/csci/for-students/learning-goals-for-hunter-college-students.
+There are two related goals for this class. The first is to assess the students’ mastery of the department’s stated learning goals. The second is to assess the department’s effectiveness in addressing these goals. For a complete list of these goals, see the [learning goals for Hunter College Students](http://www.hunter.cuny.edu/csci/for-students/learning-goals-for-hunter-college-students).
 
 ## Attendance
 
