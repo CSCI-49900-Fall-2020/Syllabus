@@ -1,63 +1,59 @@
 # CSCI 49900: Advanced Applications, a Capstone for Majors
+
 4 credits. Department of Computer Science, Hunter College, City University of New York.
 
 ## Table of Contents
 
-   * [CSCI 49900: Advanced Applications, a Capstone for Majors](#csci-49900-advanced-applications-a-capstone-for-majors)
-      * [Table of Contents](#table-of-contents)
-      * [Details](#details)
-      * [Course Description](#course-description)
-      * [Projected Project Timeline](#projected-project-timeline)
-      * [Prerequisite](#prerequisite)
-      * [Textbook](#textbook)
-      * [Grading](#grading)
-      * [Goals](#goals)
-      * [Attendance](#attendance)
-      * [Academic Violations](#academic-violations)
-      * [Discussion and Q&amp;A](#discussion-and-qa)
-      * [Email](#email)
-      * [Bulletin Board](#bulletin-board)
-      * [Computer Science Facilities &amp; Labs](#computer-science-facilities--labs)
-      * [GitHub Classroom](#github-classroom)
-         * [Project Material Submission](#project-material-submission)
-         * [Git and GitHub Tutorials](#git-and-github-tutorials)
-      * [RESTful Web API and Documentation](#restful-web-api-and-documentation)
-      * [Counseling &amp; Wellness Services](#counseling--wellness-services)
-      * [Special Needs](#special-needs)
-      * [ADA Compliance](#ada-compliance)
-      * [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
-      * [Sexual Misconduct](#sexual-misconduct)
-      * [Syllabus Change Policy](#syllabus-change-policy)
-      * [Instructor Biography](#instructor-biography)
-      * [Appendix A: Project Grade](#appendix-a-project-grade)
+* [Details](#details)
+* [Course Description](#course-description)
+* [Projected Project Timeline](#projected-project-timeline)
+* [Prerequisite](#prerequisite)
+* [Textbook](#textbook)
+* [Grading](#grading)
+* [Goals](#goals)
+* [Attendance](#attendance)
+* [Academic Violations](#academic-violations)
+* [Email](#email)
+* [Bulletin Board](#bulletin-board)
+* [Computer Science Facilities &amp; Labs](#computer-science-facilities--labs)
+* [GitHub Classroom](#github-classroom)
+ * [Project Material Submission](#project-material-submission)
+ * [Git and GitHub Tutorials](#git-and-github-tutorials)
+* [Counseling &amp; Wellness Services](#counseling--wellness-services)
+* [Special Needs](#special-needs)
+* [ADA Compliance](#ada-compliance)
+* [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
+* [Sexual Misconduct](#sexual-misconduct)
+* [Instructor Biography](#instructor-biography)
+* [Appendix A: Project Grade](#appendix-a-project-grade)
 
 Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
- 
+
 ## Details
 
 Field | Value
 ----- | -----
 **Instructor:** | [Raffi Khatchadourian](http://www.cs.hunter.cuny.edu/~Raffi.Khatchadourian99) 
-**Office:** | HN 1090H
 **Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
 **Phone:** | (212) 650-3988
-**Office hour:** | Th 3:00-5:00 pm or [by appointment](http://khatchad.commons.gc.cuny.edu/teaching/appointments)
-**Semester:** | Spring 2019
-**Section:** | CSCI 49900-01
+**Semester:** | Fall 2020
+**Section:** | CSCI 49900-04
 
 ## Course Description
 
-This course is a chance for Computer Science majors to test their mettle on major projects. Working in small groups, you will implement systems that involve at least two tiers, at least two (native) clients, a rich RESTful API (including API documentation), and security aspects. 
+This course is a chance for Computer Science majors to test their mettle on major projects. Working in small groups, you will implement systems that fulfill one of the [ICSE SCORE 2021][score] project [proposals] or one of the instructor's choosing. Student teams wishing to *enter* the contest must follow the instructions on the [SCORE CfP][cfp]. This includes *team registration* by no later than *Nov 30* and a summary report no later than *Jan 10*. **Note that the contest deadline is later than the course submission requirements**. This means that you *must* complete the project *prior to* the contest deadline, but all *documents* required by the contest may *not* be needed by the course deadline.
+
+Note that the contest may require artifacts outside those required of our class. Also, students that have not taken CSCI 40500: Software Engineering may not be familiar with all of the artifacts, e.g., software requirements. Such students are welcome to ask the instructor for guest access to previous 40500 courses or may seek the advice of other students who have taken the course. Student teams not working on one of the [official SCORE topics][proposals], e.g., ones put forth by the instructor, may not officially enter the contest.
 
 ## Projected Project Timeline
 
 Day   | Date   | Task
 ----- | ------ | ----
-3     | Feb 7  | Groups and projects must be finalized.
-5     | Feb 14 | Group details due. This should contain a "group authored" section detailing what each group member is expecting to do.
-9     | Mar 4  | Progress reports start. These should be roughly 10 minute presentations, one per group per week, delivered by a different member of the group each week.
-29    | May 13 | Final demonstration of completely working project.
-Final | May 16 1:45-3:45pm | Final written report including your reflections on the project and the final demo and your evaluation of co-group-members.
+3     | Sep 4  | Groups and projects must be finalized.
+5     | Sep 11 | Group details due. This should contain a "group authored" section detailing what each group member is expecting to do.
+9     | Oct 1  | Progress reports start. These should be roughly 10 minute presentations, one per group per week, delivered by a different member of the group each week.
+29    | Dec 8 | Final demonstration of completely working project.
+Final | Dec 18 11:30-1:30 pm | Final written report including your reflections on the project and the final demo and your evaluation of co-group-members.
 
 ## Prerequisite 
 
@@ -65,21 +61,11 @@ All non-elective courses in Computer Science required for graduation or permissi
 
 ## Textbook
 
-There will be no textbook for this course, however, the following books may be useful:
-
-- [Software Engineering](https://books.google.com/books?id=tW4VngEACAAJ), Sommerville, I. ISBN 9780133943030. 2015, Pearson Education. 10th edition.
-- [Cryptography Engineering: Design Principles and Practical Applications](https://books.google.com/books?id=nnqdQsrZnJgC), Niels Ferguson, Bruce Schneier, Tadayoshi Kohno. ISBN 9780470474242. 2010, Wiley. 10th edition.
-- [RESTful API Design](https://books.google.com/books?id=jIIQvgAACAAJ), Matthias Biehl, ISBN 9781514735169. 2016, CreateSpace Independent Publishing Platform.
-- [REST API Design Rulebook](https://books.google.com/books?id=4lZcsRwXo6MC), Mark Masse, ISBN 9781449310509. 2011, O'Reilly.
-- [The Rails 5 Way](https://books.google.com/books?id=YGQ-DwAAQBAJ), Obie Fernandez, ISBN 9780134657684. 2017, Addison-Wesley.
-- [Ruby on Rails Tutorial: Learn Web Development with Rails](https://books.google.com/books?id=ePuCDQAAQBAJ), Michael Hartl, ISBN 9780134597508. 2016, Addison-Wesley.
-- [The Ruby Way: Solutions and Techniques in Ruby Programming](https://books.google.com/books?id=uT6eBgAAQBAJ&dq), Hal Fulton, Andre Arko, ISBN 9780132480376. 2015, Addison-Wesley.
+There will be no textbook for this course.
 
 ## Grading
 
-Grades will be based on a project, presentations, attendance, etc. The project, worth 35% of your grade, will involve programming a client-server distributed application. The server must provide a RESTful web service, which will be well-documented and submitted as part of the project. The (native) clients (there must be at least two different types, e.g., web app, mobile app, arduino, command-line) can be built on a technology of your choosing that supports the HTTP/S protocol and must communicate with the aforementioned server via REST calls. **The clients must be native**, meaning that the programming language and platforms chosen must be **native** to the environment. For example, an Android client must be written in Java using the Android Development Toolkit and standard Google frameworks. Likewise, an iOS client must by written in either Objective-C or Swift.
-
-Moreover, there must be an aspect of security or privacy in your application, e.g., two-factor authentication or encrypted data. You will work with a team of 2 to 4 other students. This grade will be determined in part by my evaluation of the project and in part by your team members evaluation of your contribution. See the appendix for a complete description. Periodic presentations and written reports, reporting on tools and progress, will account for 55% of your grade. Professional presence (5%) and attendance (5%) will account for the rest of your grade.
+Grades will be based on a project, presentations, attendance, etc. The project, worth 35% of your grade, will implement one of the SCORE [proposals] or one of the instructor's choosing. Students may lobby the instructor to advocate for their own project proposals, which will be considered on a case-by-case basis. You will work with a **team of 3 to 5 other students**. This grade will be determined in part by my evaluation of the project and in part by your team members evaluation of your contribution. See the appendix for a complete description. Periodic presentations and written reports, reporting on tools and progress, will account for 55% of your grade. Professional presence (5%) and attendance (5%) will account for the rest of your grade.
 
 Listed below is the complete breakdown:
 
@@ -96,7 +82,7 @@ Listed below is the complete breakdown:
 
 ## Goals
 
-There are two related goals for this class. The first is to assess the students’ mastery of the department’s stated learning goals. The second is to assess the department’s effectiveness in addressing these goals. For a complete list of these goals, see the [learning goals for Hunter College Students](http://www.hunter.cuny.edu/csci/for-students/learning-goals-for-hunter-college-students).
+There are two related goals for this class. The first is to assess the students' mastery of the department's stated learning goals. The second is to assess the department's effectiveness in addressing these goals. For a complete list of these goals, see the [learning goals for Hunter College Students](http://www.hunter.cuny.edu/csci/for-students/learning-goals-for-hunter-college-students).
 
 ## Attendance
 
@@ -106,27 +92,21 @@ Attendance is expected for *each and every class* meeting. Each student is allow
 
 Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations, obtaining unfair advantage, and falsification of records and official documents) as serious offenses against the values of intellectual honesty. The college is committed to enforcing the CUNY Policy on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College Academic Integrity Procedures. Special attention is given to CONTRACT CHEATING (this is where students have work completed on their behalf which is then submitted for academic credit).
 
-## Discussion and Q&A
-
-This term we will be using [Piazza](http://piazza.com/hunter.cuny) for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, please [email them](mailto:team@piazza.com).
-
-Find our [class page](https://piazza.com/class/jrdu5hlg88a43g?cid=4#) and [sign up](http://piazza.com/hunter.cuny/spring2019/csci49900) for the forum.
-
 ## Email
 
-Emails to the instructor must be via a CUNY email addresses for FERPA reasons. Please post all class-related discussion on Piazza. Also, please ensure that your *correct* email address is entered into the CUNY Blackboard.
+Emails to the instructor must be via a Hunter College email addresses for FERPA reasons. Please post all class-related discussion on the Bb discussion board. Also, please ensure that your *correct* email address is entered into the CUNY Blackboard.
 
 ## Bulletin Board
 
-You should check the [Blackboard](http://bbhosted.cuny.edu) site regularly, since all class material will be posted there. Please make sure you have configured Bb to use your *CUNY email address*. You are responsible for any email the instructors might send there.
+You should check the [Blackboard](http://bbhosted.cuny.edu) site regularly, since all class material will be posted there. Please make sure you have configured Bb to use your *Hunter College email address*. You are responsible for any email the instructors might send there.
 
 ## Computer Science Facilities & Labs 
 
-All computer science students can use any of the general-purpose labs throughout Hunter College. In addition, computer science majors and students enrolled in CSCI courses can an obtain an account on the Computer Science Department Network. More information can be found on the [Computer Science Department's website](http://www.hunter.cuny.edu/csci/about-cs/computer-science-facilities-labs).
+All computer science students can use any of the general-purpose labs throughout Hunter College. In addition, computer science majors and students enrolled in CSCI courses can an obtain an account on the Computer Science Department Network. More information can be found on the [Computer Science Department's website](http://www.hunter.cuny.edu/csci/about-cs/computer-science-facilities-labs). Students should contact the instructor if they require department computing accounts and do not currently have one. Students should also contact the instructor for any necessary computing resources (e.g., laptops).
 
 ## GitHub Classroom
 
-Project submissions will be made via [GitHub Classroom](http://classroom.github.com). Please join via the [invitation link](http://classroom.github.com/g/4KuBsoap). When signing up, please match your EMPLID to your GitHub account. Notify the instructor immediately if you do not see your EMPLID.
+Project submissions will be made via [GitHub Classroom](http://classroom.github.com). Please join via the [invitation link](https://classroom.github.com/g/oAp1bvwz). When signing up, please match your EMPLID to your GitHub account. Notify the instructor immediately if you do not see your EMPLID.
 
 ### Project Material Submission
 
@@ -142,10 +122,6 @@ Please complete the following tutorials:
     - Send me:
         1. A link to the repository you have created.
         1. A link to the (merged) pull request you have created.
-
-## RESTful Web API and Documentation
-
-As part of the project submission, extensive documentation on how *new clients* can use your exposed RESTful web API must be provided. Each *end point* must be listed (i.e., the URL) and its **expected inputs and outputs** described for **each http method** (e.g., `PUT`, `GET`, `POST`). Furthermore, the **end point names must be nouns** (e.g., `http://jsonplaceholder.typicode.com/todos`, `http://jsonplaceholder.typicode.com/todos/3`). Deviations from the accepted REST practices will be **penalized**, however, liberal deviations that are accompanied by documentation may be considered (e.g., a `GET` request to `https://jsonplaceholder.typicode.com/todos/3/like` invokes a "thumbs up" mutator method on the todo with ID 3).
 
 ## Counseling & Wellness Services
 
@@ -197,10 +173,6 @@ a. Sexual Violence: Students are strongly encouraged to immediately report the i
 
 b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose (jtrose@hunter.cuny.edu or 212-650-3262) or Colleen Barry (colleen.barry@hunter.cuny.edu or 212-772-4534) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct Link: http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf
 
-## Syllabus Change Policy
-
-Except for changes that substantially affect implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice. Students will find out about changes to the syllabus via class attendance.
-
 ## Instructor Biography
 
 Raffi Khatchadourian is an Assistant Professor in the Computer Science Department at Hunter College and the Graduate Center of the City University of New York (CUNY). He received his MS and PhD degrees in Computer Science from Ohio State University and BS degree in Computer Science from Monmouth University in New Jersey. Prior to joining CUNY, he was a Software Engineer at Apple, Inc. in Cupertino, California, where he worked on Digital Rights Management (DRM) for iTunes, iBooks, and the App store. He also developed distributed software that tested various features of iPhones, iPads, and iPods. His research focus is techniques for automated software evolution, particularly those related to automated refactoring and source code recommendation systems with the goal of easing the burden associated with correctly and efficiently evolving large and complex software.
@@ -211,3 +183,7 @@ Raffi Khatchadourian is an Assistant Professor in the Computer Science Departmen
 
 The number you receive for your project grade is calculated as follows: Let ${\\cal G}$ be the set of people in your group, and *G* be the overall grade of the final project (a number between 0 and 30). Let $g\_{i,j}, i\\neq j, i,j\\in{\\cal G}$ be the grade *i* gives to *j*. Then *j*’s grade on the project is
 $$G\_j =  G \\times \\sum\_{\\substack{i\\neq j\\\\i\\in{\\cal G}}}\\left(\\frac{g\_{i,j}}{\\sum\_{\\substack{i\\neq j\\\\j\\in {\\cal G}}} g\_{i,j}}\\right)$$
+
+[score]: https://conf.researchr.org/home/icse-2021/score-2021
+[proposals]: https://conf.researchr.org/home/icse-2021/score-2021#Project-Proposals
+[cfp]: https://conf.researchr.org/home/icse-2021/score-2021#Call-for-Participation
