@@ -189,4 +189,4 @@ $$G\_j =  G \\times \\sum\_{\\substack{i\\neq j\\\\i\\in{\\cal G}}}\\left(\\frac
 [score]: https://conf.researchr.org/home/icse-2021/score-2021
 [proposals]: https://conf.researchr.org/home/icse-2021/score-2021#Project-Proposals
 [cfp]: https://conf.researchr.org/home/icse-2021/score-2021#Call-for-Participation
-[office hour]: https://huntercollege.zoom.us/my/khatchad
+[office hour]: https://huntercollege.zoom.us/j/91567295027
