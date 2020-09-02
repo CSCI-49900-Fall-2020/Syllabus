@@ -34,6 +34,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 Field | Value
 ----- | -----
 **Instructor:** | [Raffi Khatchadourian](http://www.cs.hunter.cuny.edu/~Raffi.Khatchadourian99) 
+**Office:** | 1090H Hunter North Building
 **Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
 **Phone:** | (212) 650-3988
 **Semester:** | Fall 2020
