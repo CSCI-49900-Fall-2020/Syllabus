@@ -37,6 +37,7 @@ Field | Value
 **Office:** | 1090H Hunter North Building
 **Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
 **Phone:** | (212) 650-3988
+**Virtual office hours:** | [TF 3:00-4:00 pm][office hour] or [by appointment](http://khatchad.commons.gc.cuny.edu/teaching/appointments)
 **Semester:** | Fall 2020
 **Section:** | CSCI 49900-04
 
@@ -188,3 +189,4 @@ $$G\_j =  G \\times \\sum\_{\\substack{i\\neq j\\\\i\\in{\\cal G}}}\\left(\\frac
 [score]: https://conf.researchr.org/home/icse-2021/score-2021
 [proposals]: https://conf.researchr.org/home/icse-2021/score-2021#Project-Proposals
 [cfp]: https://conf.researchr.org/home/icse-2021/score-2021#Call-for-Participation
+[office hour]: https://huntercollege.zoom.us/my/khatchad
