@@ -108,7 +108,7 @@ All computer science students can use any of the general-purpose labs throughout
 
 ## GitHub Classroom
 
-Project submissions will be made via [GitHub Classroom](http://classroom.github.com). Please join via the [invitation link](https://classroom.github.com/g/oAp1bvwz). When signing up, please match your EMPLID to your GitHub account. Notify the instructor immediately if you do not see your EMPLID.
+Project submissions will be made via [GitHub Classroom](http://classroom.github.com). Please join via the [invitation link](https://classroom.github.com/g/BYY1Iz0J). When signing up, please match your EMPLID to your GitHub account. Notify the instructor immediately if you do not see your EMPLID.
 
 ### Project Material Submission
 
