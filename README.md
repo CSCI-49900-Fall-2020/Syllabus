@@ -53,7 +53,7 @@ Day   | Date   | Task
 ----- | ------ | ----
 3     | Sep 4  | Groups and projects must be finalized.
 5     | Sep 11 | Group details due. This should contain a "group authored" section detailing what each group member is expecting to do.
-9     | Oct 1  | Progress reports start. These should be roughly 10 minute presentations, one per group per week, delivered by a different member of the group each week.
+9     | Oct 2  | Progress reports start. These should be roughly 10 minute presentations, one per group per week, delivered by a different member of the group each week.
 29    | Dec 8 | Final demonstration of completely working project.
 Final | Dec 18 11:30-1:30 pm | Final written report including your reflections on the project and the final demo and your evaluation of co-group-members.
 
