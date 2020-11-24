@@ -181,7 +181,7 @@ Raffi Khatchadourian is an Assistant Professor in the Computer Science Departmen
 
 ## Appendix A: Project Grade
 
-**NOTE**: This appendix is best viewed with something like [GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima).
+**NOTE**: This appendix is best viewed with something like [MathJax 3 Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-3-plugin-for-gith/peoghobgdhejhcmgoppjpjcidngdfkod).
 
 The number you receive for your project grade is calculated as follows: Let ${\\cal G}$ be the set of people in your group, and *G* be the overall grade of the final project (a number between 0 and 30). Let $g\_{i,j}, i\\neq j, i,j\\in{\\cal G}$ be the grade *i* gives to *j*. Then *j*’s grade on the project is
 $$G\_j =  G \\times \\sum\_{\\substack{i\\neq j\\\\i\\in{\\cal G}}}\\left(\\frac{g\_{i,j}}{\\sum\_{\\substack{i\\neq j\\\\j\\in {\\cal G}}} g\_{i,j}}\\right)$$
